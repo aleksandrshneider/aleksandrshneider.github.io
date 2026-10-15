@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## Instructor of Record — University of Minnesota
+## Instructor
 
 **ECON 4261 — Introduction to Econometrics**<br>
 Fall 2024 – Spring 2026 (four semesters)<br>
@@ -19,7 +19,7 @@ Distinguished Teaching Award: Fall 2024, Spring 2025, Fall 2025
 Fall 2023 – Spring 2024 (two semesters)<br>
 Distinguished Teaching Award: Spring 2024
 
-## Teaching Assistant — University of Minnesota
+## Teaching Assistant
 
 - ECON 4161–4164 — Microeconomic Analysis I–IV, Fall 2022 – Spring 2023
 - ECON 4261 — Introduction to Econometrics, Summer 2022

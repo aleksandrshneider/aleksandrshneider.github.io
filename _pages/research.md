@@ -7,8 +7,10 @@ author_profile: true
 
 ## Job Market Paper
 
-**When the News Matters: Newspaper Text and Real-Time Forecasts of U.S. Growth**
-<!-- TODO: link the draft once posted, e.g. [**Title**](/files/shneider_jmp.pdf) -->
+<!-- To post a new draft, upload a PDF named Aleksandr_Shneider_JMP.pdf to the files folder. -->
+
+[**When the News Matters: Newspaper Text and Real-Time Forecasts of U.S. Growth**](/files/Aleksandr_Shneider_JMP.pdf)<br>
+[Latest draft (PDF)](/files/Aleksandr_Shneider_JMP.pdf)
 
 > Does newspaper text help to forecast the U.S. economy in real time, and when? I build monthly text series—topic shares, policy-uncertainty counts and sentiment—from 11.76 million articles of seven U.S. newspapers over 1990–2020, select the economic articles with an embedding-based filter checked against hand labels, and race the text against FRED-MD in mixed-frequency regressions estimated with machine-learning methods on expanding real-time windows. Three results. First, on all articles text alone trails the hard data, and adding it helps only consumption. Second, which articles are used matters: selecting the economic articles improves the text forecasts under every selection rule tried. Third, text beats the autoregressive benchmark only in the Great Recession, when four quarters hold between a third and a half of the benchmark's squared error; in normal times neither text nor hard data beat it.
 
