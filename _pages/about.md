@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Welcome!"
+seo_title: "Aleksandr Shneider – Economics, University of Minnesota"
+description: "Ph.D. candidate in Economics at the University of Minnesota working on textual analysis and empirical macroeconomics. On the 2026–2027 academic job market."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,11 +11,21 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at the University of Minnesota. My fields are **textual analysis and empirical macroeconomics**. I study when the text of news and research carries economic information that standard data miss, using large text corpora and machine-learning methods. **I am on the 2026–2027 academic job market.**
 
-In my [job market paper](/research/), I build text measures from 11.76 million articles in seven U.S. newspapers and ask whether, and when, they improve real-time forecasts of U.S. growth. In joint work with Arseniy Stolyarov, I study pricing and discount dynamics on the Steam video game platform and use sentiment analysis of Steam user reviews to predict player behavior. I also document the spread of identification designs across the economics profession.
-
 Before Minnesota, I earned an M.Sc. in Economics from EIEF and LUISS (Rome) and a B.Sc. in Economics from Lomonosov Moscow State University. I teach undergraduate econometrics at Minnesota.
 
-[Download my CV (PDF)](/files/Aleksandr_Shneider_CV.pdf) · [Job market paper (PDF)](/files/Aleksandr_Shneider_JMP.pdf)
+[Download my CV (PDF)](/files/Aleksandr_Shneider_CV.pdf)
+
+## Job Market Paper
+
+[**When the News Matters: Newspaper Text and Real-Time Forecasts of U.S. Growth**](/files/Aleksandr_Shneider_JMP.pdf)
+
+I build monthly text measures from 11.76 million articles in seven U.S. newspapers and ask whether, and when, they improve real-time forecasts of U.S. growth. The gains are concentrated in the Great Recession: in four quarters of 2008–09, text beats an autoregressive benchmark by 10–13% for GDP and 20–35% for consumption, while in normal times neither text nor hard data does.
+
+[Paper (PDF)](/files/Aleksandr_Shneider_JMP.pdf) · [Abstract](/research/)
+
+## Other Research
+
+With Arseniy Stolyarov, I study pricing and discount dynamics on the Steam video game platform and use sentiment analysis of Steam user reviews to predict player behavior. I also document the spread of identification designs across the economics profession. [All papers and slides](/research/)
 
 ## References
 
