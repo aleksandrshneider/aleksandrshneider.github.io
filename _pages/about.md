@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome!"
 seo_title: "Aleksandr Shneider – Economics, University of Minnesota"
 description: "Ph.D. candidate in Economics at the University of Minnesota working on textual analysis and empirical macroeconomics. On the 2026–2027 academic job market."
 author_profile: true
@@ -21,11 +20,11 @@ Before Minnesota, I earned an M.Sc. in Economics from EIEF and LUISS (Rome) and 
 
 I build monthly text measures from 11.76 million articles in seven U.S. newspapers and ask whether, and when, they improve real-time forecasts of U.S. growth. The gains are concentrated in the Great Recession: in four quarters of 2008–09, text beats an autoregressive benchmark by 10–13% for GDP and 20–35% for consumption, while in normal times neither text nor hard data does.
 
-[Paper (PDF)](/files/Aleksandr_Shneider_JMP.pdf) · [Abstract](/research/)
+[Paper (PDF)](/files/Aleksandr_Shneider_JMP.pdf) · [Slides (PDF)](/files/Aleksandr_Shneider_JMP_slides.pdf) · [Abstract](/research/)
 
 ## Other Research
 
-With Arseniy Stolyarov, I study pricing and discount dynamics on the Steam video game platform and use sentiment analysis of Steam user reviews to predict player behavior. I also document the spread of identification designs across the economics profession. [All papers and slides](/research/)
+With [Arseniy Stolyarov](https://www.arseniystolyarov.com/), I study pricing and discount dynamics on the Steam video game platform and use sentiment analysis of Steam user reviews to predict player behavior. I also document the spread of identification designs across the economics profession. [All papers and slides](/research/)
 
 ## References
 
