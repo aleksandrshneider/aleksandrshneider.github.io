@@ -16,7 +16,7 @@ Before Minnesota, I earned an M.Sc. in Economics from EIEF and LUISS (Rome) and 
 
 ## Job Market Paper
 
-[**When the News Matters: Newspaper Text and Real-Time Forecasts of U.S. Growth**](/files/Aleksandr_Shneider_JMP.pdf)
+[**When News Matters: Newspaper Text and Real-Time Forecasts of U.S. Growth**](/files/Aleksandr_Shneider_JMP.pdf)
 
 I build monthly text measures from 11.76 million articles in seven U.S. newspapers and ask whether, and when, they improve real-time forecasts of U.S. growth. The gains are concentrated in the Great Recession: in four quarters of 2008–09, text beats an autoregressive benchmark by 10–13% for GDP and 20–35% for consumption, while in normal times neither text nor hard data does.
 
